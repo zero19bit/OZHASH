@@ -1,3 +1,4 @@
+Ozhash
 
 A 256‑bit custom cryptographic hash function written in Python.
 Ozhash is inspired by SHA‑256 but adds a second parallel state row, a larger block size, and AES S‑box nonlinearity.
